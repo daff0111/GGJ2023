@@ -46,8 +46,8 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-RootningAway/Binaries/*
-RootningAway/Plugins/*/Binaries/*
+#RootningAway/Binaries/*
+#RootningAway/Plugins/*/Binaries/*
 
 # Builds
 RootningAway/Build/*
