@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\githubprojects\\ggj2023\\rootningaway\\intermediate\\build\\win64\\unrealeditor\\inc\\rootningaway\\uht\\rootningawaygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\githubprojects\\ggj2023\\rootningaway\\intermediate\\build\\win64\\rootningawayeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\githubprojects\\ggj2023\\rootningaway\\intermediate\\build\\win64\\unrealeditor\\development\\rootningaway\\definitions.rootningaway.h",
+            "d:\\githubprojects\\ggj2023\\rootningaway\\source\\rootningaway\\rootningawaygamemode.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\githubprojects\\ggj2023\\rootningaway\\intermediate\\build\\win64\\unrealeditor\\inc\\rootningaway\\uht\\rootningawaygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
