@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RootningAway",
+			"Path": "D:\\Githubprojects\\GGJ2023\\RootningAway\\Source\\RootningAway.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RootningAwayEditor",
+			"Path": "D:\\Githubprojects\\GGJ2023\\RootningAway\\Source\\RootningAwayEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

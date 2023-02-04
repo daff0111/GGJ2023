@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Githubprojects\\GGJ2023\\RootningAway\\Source\\RootningAway\\RootningAway.Build.cs",
+		"D:\\Githubprojects\\GGJ2023\\RootningAway\\Source\\RootningAway.Target.cs",
+		"D:\\Githubprojects\\GGJ2023\\RootningAway\\Source\\RootningAwayEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.0"
+}
