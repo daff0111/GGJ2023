@@ -83,3 +83,10 @@ RootningAway/Content/StarterContent/Architecture/Floor_400x400.uasset
 RootningAway/Content/StarterContent/Audio/Collapse01.uasset
 RootningAway/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset
 RootningAway/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset
+
+Copy/*
+CPV2/*
+RootningAway/Binaries/Win64/RootningAway-Win64-Shipping.pdb
+RootningAway/Binaries/Win64/RootningAway-Win64-Shipping.exp
+RootningAway/Binaries/Win64/RootningAway-Win64-Shipping.target
+RootningAway/Package/ToothDecay.rar
